@@ -1,0 +1,23 @@
+{
+  "name": "satutoko-be",
+  "version": "1.0.0",
+  "description": "Backend untuk Aplikasi Satu Toko (Efisien dalam belanja online)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellopik/satutoko-backend.git"
+  },
+  "keywords": [
+    "satutoko",
+    "backend"
+  ],
+  "author": "Taufiq Mahendra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hellopik/satutoko-backend/issues"
+  },
+  "homepage": "https://github.com/hellopik/satutoko-backend#readme"
+}
